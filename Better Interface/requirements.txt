@@ -3,3 +3,4 @@ pyusb
 json
 pprint
 time
+npyscreen
